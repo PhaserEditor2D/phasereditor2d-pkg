@@ -1,0 +1,29 @@
+{
+  "name": "phasereditor2d-server",
+  "version": "3.0.0",
+  "description": "A friendly web-based IDE for HTML5 game development.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/PhaserEditor2D/phasereditor2d-server-pkg"
+  },
+  "keywords": [
+    "Phaser",
+    "IDE",
+    "editor",
+    "scene",
+    "level",
+    "maker",
+    "design",
+    "sprite",
+    "html5",
+    "games",
+    "development",
+    "art"
+  ],
+  "author": "Arian Fornaris <developers@phasereditor2d.com> (https://phasereditor2d.com)",
+  "license": "MIT"
+}
